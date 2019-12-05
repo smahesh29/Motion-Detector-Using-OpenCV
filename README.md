@@ -23,7 +23,7 @@
       pip install bokeh
 </ul>
  
-<h2>Analysis of all Windows :<h2>
+<h2>Analysis of all Windows :</h2>
   
 After running the code there 4 new window will appear on screen.
 <dl>
