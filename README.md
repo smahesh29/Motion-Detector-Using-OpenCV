@@ -1,7 +1,7 @@
 # Motion-Detector-Using-OpenCV  <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Motion-Detector-Using-OpenCV">
 
 <h2>Problem Statement : </h2>
-    You have been approached by a company that is studying human bahavior. Your task is to give them a webcam, that can detect the motion or any movement in front of it. This should return a graph, this graph should contain for how long the human/object was in front of the camera.
+<p>You have been approached by a company that is studying human bahavior. Your task is to give them a webcam, that can detect the motion or any movement in front of it. This should return a graph, this graph should contain for how long the human/object was in front of the camera.</p>
 
 <h2>Solution Logic : </h2>
 <img src="Solution Logic.png" width="600" height="900">
